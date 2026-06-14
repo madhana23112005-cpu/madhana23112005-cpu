@@ -14,8 +14,8 @@
 
 | Project | What it is |
 |--------|-----------|
-| **ZeroBacklog** | AI-powered placement prep platform for Anna University students — Firebase · Gemini API · Adaptive engine |
-| **Elixir'26 Symposium Website** | Official site for GCE Erode's annual tech symposium |
+| **CrackIt** | AI-powered placement prep platform for Anna University students — Firebase · Gemini API · Adaptive engine |
+| **Elixir'26 Symposium Website** | Official site for GCE Erode's EEE Department tech symposium |
 | **EnerNova** | Mini project website — energy meets innovation |
 | **Solar Panel Cleaning Robot** | Automated hardware system — DC motor · threaded rod · aluminum frame |
 
